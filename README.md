@@ -1,4 +1,5 @@
 # excel_reader
+PHP libarary for reading excel files
 
 This is excel_reader2.php library. I fixed some bugs in it.
 
